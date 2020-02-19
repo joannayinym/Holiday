@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="31px" viewBox="0 0 34 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Share Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Release-1" stroke="#00497a" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Release-1---Owner-2-Email" transform="translate(-20.000000, -372.000000)">
+            <g id="Group-4" transform="translate(10.000000, 362.000000)">
+                <g id="Group-10" transform="translate(-0.000000, 7.000000)">
+                    <g id="Share-Icon" transform="translate(10.000000, 3.000000)">
+                        <g id="Group-2" transform="translate(18.014925, 15.500000) rotate(45.000000) translate(-18.014925, -15.500000) translate(9.641791, 2.000000)">
+                            <path d="M4.60596327,0.5 L0.5,0.5 L0.5,26.5 L4.60596327,26.5 C4.8552842,24.5255878 6.56182176,23 8.62686567,23 C10.6919096,23 12.3984471,24.5255878 12.6477681,26.5 L16.2462687,26.5 L16.2462687,0.5 L12.6477681,0.5 C12.3984471,2.47441221 10.6919096,4 8.62686567,4 C6.56182176,4 4.8552842,2.47441221 4.60596327,0.5 Z" id="Combined-Shape" stroke="#00497a" fill="#FFFFFF"></path>
+                            <path d="M4.56716418,9 L4.56716418,10 L1.01492537,10 L1.01492537,9 L4.56716418,9 Z M10.1492537,9 L10.1492537,10 L6.59701493,10 L6.59701493,9 L10.1492537,9 Z M15.7313433,9 L15.7313433,10 L12.1791045,10 L12.1791045,9 L15.7313433,9 Z" id="Combined-Shape" fill="#00497a"></path>
+                        </g>
+                        <ellipse id="Oval" stroke="##00497a" fill="#FFFFFF" cx="8.62686567" cy="9" rx="8.12686567" ry="8"></ellipse>
+                        <path d="M8.62686567,9.91503906 C7.72808833,10.0336552 7.02704399,10.2248173 6.52373266,10.4885254 C6.02042132,10.7522335 5.31937698,11.2956905 4.42059964,12.1188965 C4.75059759,10.6765237 5.32938092,9.55355824 6.15694963,8.75 C6.98451834,7.94644176 7.80782368,7.54133108 8.62686567,7.53466797 L8.62686567,7.53466797 L8.62686567,5.5 L13.1940299,8.5 L8.62686567,12 Z" id="Combined-Shape" fill="#00497a"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

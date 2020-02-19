@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "typeRoots": ["./node_modules/@types", "./custom.d.ts", "./css-mediaquery"],
+    "baseUrl": ".",
+    "target": "es2018",
+    "lib": ["esnext", "dom"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "keyofStringsOnly": true,
+    "noImplicitAny": true,
+    "removeComments": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": ["src/**/*.svg", "src/**/*.ts"],
+  "exclude": ["node_modules", "public", "*.js", "src/**/__tests__", "dist"]
+}
