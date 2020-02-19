@@ -5,7 +5,7 @@ import Signup from "./Signup/index";
 const routes = [
   {
     path: "/",
-    exact: true,
+    exact: undefined,
     name: "Home",
     component: Home
   },
